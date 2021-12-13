@@ -1,4 +1,6 @@
-AHI_Database_Final
+                                                        AHI_Database_Final
+                                                            HHA 504 
+                                                        E2E Final (EC2)
 # Step 1
 ## Launching Virtual Machine 
 ### The first VM was launched on Microsoft Azure. An UBUNTU server with username and password. Ports 22(SSH) and 3306(MySQL) were opened.
