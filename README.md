@@ -13,13 +13,13 @@
 # Step 3
 ## Installing mysql on the UBUNTU instance
 #### Using a terminal, the following command was used to connect to the new VM
-### > ssh client@52.249.196.193 and the password that was created in Step 2
+### `ssh client@52.249.196.193` and the password that was created in Step 2
 #### Next we entered the command 
-### > sudo apt-get update followed by > sudo apt install mysql-server mysql-client
+### `sudo apt-get update` followed by `sudo apt install mysql-server mysql-client`
 #### Then log into mysql using the command 
-### > sudo mysql
+### `sudo mysql`
 #### To test, the command 
-### > show databases; 
+### `show databases;`
 #### will allow review of the databases expected in the sql instance 
 
 # Step 4 
